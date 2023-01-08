@@ -10,3 +10,4 @@
 -  `Hackintoch` && `OpenCore` 
 - QQ：`1694698985`
 - Bilibili`老八带你玩黑果`
+[](https://blog.laobamac.fun/img/mm_facetoface_collect_qrcode_1673088826683.png)
