@@ -1,6 +1,6 @@
 ## Hello！ 👋 I'm laobamac
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laobamac&show_icons=true&theme=merko)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laobamac)](https://github.com/laobamac)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laobamac)](https://github.com/laobamac/Hackintosh-i7-8700K-ASUS-PRIME-Z370-A-Z370-F)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laobamac&repo=Hackintosh-I3-9100F-B365M-RX580)](https://github.com/laobamac/Hackintosh-I3-9100F-B365M-RX580)
