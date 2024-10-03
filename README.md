@@ -10,5 +10,5 @@
 
 -  `Hackintoch` && `OpenCore` 
 - QQ：`1694698985`
-- Bilibili`老八带你玩黑果`
-- QQ交流群 734284448
+- Bilibili`SimpleHac`
+- QQ交流群 1006766467
