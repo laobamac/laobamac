@@ -11,4 +11,4 @@
 -  `Hackintoch` && `OpenCore` 
 - QQ：`1694698985`
 - Bilibili`SimpleHac`
-- QQ交流群 1006766467
+- QQ交流群 `965625664`
