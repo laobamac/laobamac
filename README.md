@@ -60,12 +60,6 @@ A glimpse into my coding universe, powered by data:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laobamac&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="GitHub Streak"/>
 </div>
 
-<!-- Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/laobamac/laobamac/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-  <p><i>Tip: Enable the contribution snake by setting up a GitHub Action workflow in your profile repo!</i></p>
-</div>
-
 ---
 
 ## 🧰 My Tech Stack
