@@ -30,16 +30,16 @@ Dive into my flagship projects, each a testament to innovation in the Hackintosh
 
 <div align="center">
   <a href="https://github.com/laobamac/OCLP-Mod">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laobamac&repo=OCLP-Mod&theme=dracula&show_owner=true&border_radius=10" alt="OCLP-Mod"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=laobamac&repo=OCLP-Mod&theme=dracula&show_owner=true&border_radius=10" alt="OCLP-Mod"/>
   </a>
   <a href="https://github.com/laobamac/SimpleGBE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laobamac&repo=SimpleGBE&theme=dracula&show_owner=true&border_radius=10" alt="SimpleGBE"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=laobamac&repo=SimpleGBE&theme=dracula&show_owner=true&border_radius=10" alt="SimpleGBE"/>
   </a>
   <a href="https://github.com/laobamac/SimpleLoader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laobamac&repo=SimpleLoader&theme=dracula&show_owner=true&border_radius=10" alt="SimpleLoader"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=laobamac&repo=SimpleLoader&theme=dracula&show_owner=true&border_radius=10" alt="SimpleLoader"/>
   </a>
   <a href="https://github.com/laobamac/PVE-OpenCore">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laobamac&repo=PVE-OpenCore&theme=dracula&show_owner=true&border_radius=10" alt="PVE-OpenCore"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=laobamac&repo=PVE-OpenCore&theme=dracula&show_owner=true&border_radius=10" alt="PVE-OpenCore"/>
   </a>
 </div>
 
@@ -52,12 +52,12 @@ Dive into my flagship projects, each a testament to innovation in the Hackintosh
 A glimpse into my coding universe, powered by data:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laobamac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs,issues&rank_icon=percentile&border_radius=10" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laobamac&layout=compact&theme=dracula&langs_count=10&hide=html,css&border_radius=10" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=laobamac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs,issues&rank_icon=percentile&border_radius=10" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=laobamac&layout=compact&theme=dracula&langs_count=10&hide=html,css&border_radius=10" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laobamac&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak-stats/?username=laobamac&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
