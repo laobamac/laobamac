@@ -19,7 +19,7 @@ Greetings, tech adventurers! I'm **laobamac** (王孝慈), a passionate innovato
 Proud moments from my coding journey, visualized with flair:
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laobamac&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=6&rank=SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=laobamac&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=6&rank=SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -57,7 +57,7 @@ A glimpse into my coding universe, powered by data:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak-stats/?username=laobamac&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=laobamac&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
