@@ -19,7 +19,7 @@ Greetings, tech adventurers! I'm **laobamac** (王孝慈), a passionate innovato
 Proud moments from my coding journey, visualized with flair:
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=laobamac&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=6&rank=SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=laobamac&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=6&rank=SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
 </div>
 
 ---
