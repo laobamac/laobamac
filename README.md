@@ -89,9 +89,9 @@ Mastering the tools that power my projects:
 I'm all about collaboration and community. Reach out to me:
 
 - **QQ**: 1694698985  
-- **Bilibili**: [SimpleHac](https://space.bilibili.com/SimpleHac)  
+- **Bilibili**: [laobamac](https://space.bilibili.com/504306154)
 - **QQ Exchange Group**: 965625664  
-- **Emergency (SMS)**: 13329405928  
+- **Emergency (SMS)**: +86 13329405928  
 
 <div align="center">
   <a href="https://qq.com/1694698985"><img src="https://img.shields.io/badge/QQ-1694698985-blue?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ"/></a>
