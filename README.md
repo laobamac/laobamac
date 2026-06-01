@@ -4,7 +4,7 @@
 Greetings, tech adventurers! I'm **laobamac** (王孝慈), a passionate innovator diving deep into the realms of **Hackintosh** and **OpenCore**. My mission? To craft seamless, high-performance tools that bring macOS to life on any hardware. Buckle up and explore my world of code, creativity, and community! 💻✨
 
 ### 如果您是某高校/组织来访，可以在下方通过QQ/手机号/电子邮件和我取得联系
-### If you are visiting a university/organization, you can contact me through QQ/mobile phone number/email below
+### If you are visiting as a university/organization, you can contact me through QQ/mobile phone number/email below
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=Code+with+Passion;Hack+with+Purpose;Build+the+Future" alt="Typing SVG"/>
