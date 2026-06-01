@@ -94,8 +94,8 @@ I'm all about collaboration and community. Reach out to me:
 - **Emergency (SMS)**: +86 13329405928  
 
 <div align="center">
-  <a href="https://qq.com/1694698985"><img src="https://img.shields.io/badge/QQ-1694698985-blue?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ"/></a>
-  <a href="https://space.bilibili.com/SimpleHac"><img src="https://img.shields.io/badge/Bilibili-SimpleHac-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
+  <a href="https://space.bilibili.com/504306154"><img src="https://img.shields.io/badge/QQ-1694698985-blue?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ"/></a>
+  <a href="https://space.bilibili.com/504306154"><img src="https://img.shields.io/badge/Bilibili-SimpleHac-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
 </div>
 
 ---
